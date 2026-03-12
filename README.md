@@ -25,14 +25,14 @@ O REXX ao receber o parâmetro de quantidade valida se é um número inteiro, ch
 
 ### Etapa 3 — Resultado
 O resultado pode ser visto na spool na `SYSTSPRT` do JOB e deverá ter uma sequência semelhante a essa abaixo quando executado com o número 4 no PARM (exibição de sequência de 4 números). Exemplo:
-
-**Euromilhões:**
+  
+**Euromilhões:**  
 EURO: 01 17 41 42 47 + 03 06  
 EURO: 01 06 29 47 50 + 05 09  
 EURO: 18 19 24 37 42 + 01 02  
 EURO: 01 30 36 38 42 + 02 12  
-  
-**Mega Sena:**
+
+**Mega Sena:**  
 MEGA: 01 02 16 29 35 53  
 MEGA: 13 23 43 45 48 54  
 MEGA: 15 25 30 42 52 59  
